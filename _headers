@@ -1,2 +1,2 @@
 /learn/*
-  Basic-Auth: someuser:somepassword anotheruser:anotherpassword
+  Basic-Auth: me:#foo
